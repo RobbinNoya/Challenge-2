@@ -36,11 +36,11 @@ body {
     }
 
     .klok {
-        width: 50vh;
+        width: 55vh;
     }
 
     .datum {
-        width: 50vh;
+        width: 55vh;
         position: relative;
         animation-name: Jojo;
         animation-duration: 5s;
