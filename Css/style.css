@@ -5,8 +5,8 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    color: #17D4FE;
-    font-size: 60px;
+    color: blue;
+    font-size: 65px;
     font-family: Orbitron;
     letter-spacing: 7px;
 }
