@@ -13,6 +13,7 @@ body {
 
 @media (max-width: 375px){
     body {
+        font-size: 55px;
         height: 100vh;
         align-content:center;
     }
