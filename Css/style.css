@@ -36,12 +36,7 @@ body {
         justify-content: flex-start;
     }
 
-    .klok {
-        width: 55vh;
-    }
-
     .datum {
-        width: 55vh;
         position: relative;
         animation-name: Jojo;
         animation-duration: 5s;
